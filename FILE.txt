@@ -1,0 +1,12 @@
+#include<stdio.h>
+write a c program tosimulate fcfs disk scheduling algorithm and execute your program and find out and print the average head movement for the following test case .
+no of tracks :9
+track position ; 55 58 60 70 18 90 150 160 184 
+
+2. write a c program to illustrate the page replacement method where the pages whch is not in demand for lng future time time is replaced by the nwew page and dertermine the number of page fault for the following test case 
+no of page frames: 3
+page reference sequence 7,0,1,2,0,3,0,4,2,3,0,3,2,1,2,0,1,7,0 and 1.
+
+
+1.write a c program to implement single level directory system. In which alll the files are plCED IN ONE DIRECTORY AND THERE ARE NO SUB DIRECTORIES.
+TEST CASE : CREATE ONE DIRECTORY WITH NAME OF cse AND add 3 FILE(a,b,c) IN TO THAT DIRECTORY .
